@@ -1,3 +1,5 @@
+Advanced Ransomware Detection System
+
 This Python-based tool detects potential ransomware by analyzing file entropy, structure, and content. It examines:
 
 1. Entropy levels (identifies encrypted/packed files) 
