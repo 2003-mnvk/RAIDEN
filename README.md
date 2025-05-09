@@ -8,10 +8,10 @@ This Python-based tool detects potential ransomware by analyzing file entropy, s
 4. Suspicious strings (ransom notes, crypto addresses)
    
 Key Features:
-✅ Pre-execution static analysis
-✅ PDF report generation
-✅ Risk scoring (Critical/High/Medium/Low)
-✅ Google Drive & local file scanning
+1. Pre-execution static analysis
+2. PDF report generation
+3. Risk scoring (Critical/High/Medium/Low)
+4. Google Drive & local file scanning
 
 Use Case:
 Help security teams identify ransomware before execution without relying on signatures.
